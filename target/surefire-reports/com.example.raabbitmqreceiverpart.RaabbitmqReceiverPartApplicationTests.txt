@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.example.raabbitmqreceiverpart.RaabbitmqReceiverPartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.233 s <<< FAILURE! - in com.example.raabbitmqreceiverpart.RaabbitmqReceiverPartApplicationTests
+initializationError(com.example.raabbitmqreceiverpart.RaabbitmqReceiverPartApplicationTests)  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.Exception: The class com.example.raabbitmqreceiverpart.RaabbitmqReceiverPartApplicationTests is not public.
+
+initializationError(com.example.raabbitmqreceiverpart.RaabbitmqReceiverPartApplicationTests)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(com.example.raabbitmqreceiverpart.RaabbitmqReceiverPartApplicationTests)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Exception: Method contextLoads() should be public
+

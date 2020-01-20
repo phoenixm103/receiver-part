@@ -1,0 +1,3 @@
+com/example/raabbitmqreceiverpart/config/RabbitMQConfig.class
+com/example/raabbitmqreceiverpart/listener/RabbitMQ.class
+com/example/raabbitmqreceiverpart/RaabbitmqReceiverPartApplication.class
